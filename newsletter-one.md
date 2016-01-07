@@ -4,7 +4,7 @@
 
 ## 新鲜事：互联网&IT技术一周大事件汇总
 
-- [开源盛世的起点——2015十大新兴热门开源项目盘点](https://shimo.im/doc/GNPLzTckfwEGUbsb) 
+- [开源盛世的起点——2015十大新兴热门开源项目盘点](http://www.oschina.net/news/69238/2015-top-ten-emerging-open-source-projects) 
 - [Google确认下一个Android版本将不会使用Oracle的Java API，转而使用开源的OpenJDK替代](http://www.infoq.com/cn/news/2016/01/Google-Oracle-OpenJDK?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
 - [Spark 1.6发布：引入Dataset接口](http://www.infoq.com/cn/news/2016/01/spark-16-release)
 - [TIOBE 1月编程语言排行榜 Java是2015年度编程语言](http://www.oschina.net/news/69606/tiobe-2016-1)

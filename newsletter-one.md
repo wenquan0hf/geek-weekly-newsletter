@@ -17,8 +17,8 @@
 
 ## 干货集：IT 技术干货聚集地
 
-- [【运维】Redis开发运维实践指南](http://wiki.jikexueyuan.com/project/all-about-redis/) 银行数据库运维实战
-- [【开发】自定义 View 实现简单的时钟讲解](http://qun.jikexueyuan.com/android/topic/241)Android 时钟具体实现
+- [【运维】Redis开发运维实践指南](http://wiki.jikexueyuan.com/project/all-about-redis/)      银行数据库运维实战
+- [【开发】自定义 View 实现简单的时钟讲解](http://qun.jikexueyuan.com/android/topic/241)Android      时钟具体实现
 - [【开发】星球大战：原力觉醒或者用原力粉碎Android的视图](https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-31/星球大战：原力觉醒或者用原力粉碎Android的视图.md)星战的效果是如何实现的
 - [【工具】GitHub搭建动态网站](http://qun.jikexueyuan.com/web/topic/290)GitHub 应用
 - [【人工智能】TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)Google 第二代机器学习系统 

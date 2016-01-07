@@ -17,21 +17,21 @@
 
 ## 干货集：IT 技术干货聚集地
 
-- [【运维】Redis开发运维实践指南](http://wiki.jikexueyuan.com/project/all-about-redis/)&nbsp;&nbsp;&nbsp银行数据库运维实战
-- [【开发】自定义 View 实现简单的时钟讲解](http://qun.jikexueyuan.com/android/topic/241)Android &nbsp;&nbsp时钟具体实现
-- [【开发】星球大战：原力觉醒或者用原力粉碎Android的视图](https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-31/星球大战：原力觉醒或者用原力粉碎Android的视图.md)星战的效果是如何实现的
-- [【工具】GitHub搭建动态网站](http://qun.jikexueyuan.com/web/topic/290)GitHub 应用
-- [【人工智能】TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)Google 第二代机器学习系统 
-- [【资源】实用的计算机相关技术书籍汇总](https://github.com/LippiOuYang/practical-programming-books)很全面
-- [【数据挖掘】自然语言处理在现实生活中运用](http://www.cnblogs.com/baiboy/p/zryy1.html)科学的教你背单词
-- [【架构】快的打车架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=402041851&idx=1&sn=10e83c9dc614ae36bba63da9d5614b86&scene=0#wechat_redirect)做自己的打车应用
-- [【开发】一步步教你用 PHP + MySQL 搭建网站](http://wiki.jikexueyuan.com/project/php-and-mysql-web/)实战解析
-- [【产品】不要迷恋产品方法论，脚踏实地执行这8个步骤就好](http://www.woshipm.com/pd/262724.html)产品也要务实
-- [【开发《Spring Boot Cookbook》阅读笔记](http://wiki.jikexueyuan.com/project/spring-boot/)学习心得总结，很有指导意义
-- [【开发】Chrome 开发工具指南](http://wiki.jikexueyuan.com/project/chrome-devtools/)国内第一版 Chrome 调试工具教程
-- [【云计算】Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)结合示例让 Docker 变得更好理解
-- [【笔试面试】Java 面试宝典](http://wiki.jikexueyuan.com/project/java-interview-bible/)Java工程师都要读的面试题库
-- [【数学模型】商人们怎样过河？](http://blog.luoyuanhang.com/2016/01/06/【数学模型】商人们怎样过河？/)发散思维，复杂问题简单化
+- [【运维】Redis开发运维实践指南](http://wiki.jikexueyuan.com/project/all-about-redis/)&nbsp;&nbsp;银行数据库运维实战
+- [【开发】自定义 View 实现简单的时钟讲解](http://qun.jikexueyuan.com/android/topic/241)&nbsp;&nbsp;Android 时钟具体实现
+- [【开发】星球大战：原力觉醒或者用原力粉碎Android的视图](https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-31/星球大战：原力觉醒或者用原力粉碎Android的视图.md)&nbsp;&nbsp;星战的效果是如何实现的
+- [【工具】GitHub搭建动态网站](http://qun.jikexueyuan.com/web/topic/290)&nbsp;&nbsp;GitHub 应用
+- [【人工智能】TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)&nbsp;&nbsp;Google 第二代机器学习系统 
+- [【资源】实用的计算机相关技术书籍汇总](https://github.com/LippiOuYang/practical-programming-books)&nbsp;&nbsp;&nbsp;&nbsp;很全面
+- [【数据挖掘】自然语言处理在现实生活中运用](http://www.cnblogs.com/baiboy/p/zryy1.html)&nbsp;&nbsp;科学的教你背单词
+- [【架构】快的打车架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=402041851&idx=1&sn=10e83c9dc614ae36bba63da9d5614b86&scene=0#wechat_redirect)&nbsp;&nbsp;做自己的打车应用
+- [【开发】一步步教你用 PHP + MySQL 搭建网站](http://wiki.jikexueyuan.com/project/php-and-mysql-web/)&nbsp;&nbsp;实战解析
+- [【产品】不要迷恋产品方法论，脚踏实地执行这8个步骤就好](http://www.woshipm.com/pd/262724.html)&nbsp;&nbsp;产品也要务实
+- [【开发《Spring Boot Cookbook》阅读笔记](http://wiki.jikexueyuan.com/project/spring-boot/)&nbsp;&nbsp;学习心得总结，很有指导意义
+- [【开发】Chrome 开发工具指南](http://wiki.jikexueyuan.com/project/chrome-devtools/)&nbsp;&nbsp;国内第一版 Chrome 调试工具教程
+- [【云计算】Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)&nbsp;&nbsp;结合示例让 Docker 变得更好理解
+- [【笔试面试】Java 面试宝典](http://wiki.jikexueyuan.com/project/java-interview-bible/)&nbsp;&nbsp;Java工程师都要读的面试题库
+- [【数学模型】商人们怎样过河？](http://blog.luoyuanhang.com/2016/01/06/【数学模型】商人们怎样过河？/)&nbsp;&nbsp;发散思维，复杂问题简单化
 
 ## 大集市：挖掘程序界的宝藏 
  

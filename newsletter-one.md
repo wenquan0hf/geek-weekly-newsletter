@@ -30,7 +30,7 @@
 - [【资源】实用的计算机相关技术书籍汇总](https://github.com/LippiOuYang/practical-programming-books)
 <br>很全面
 - [【数据挖掘】自然语言处理在现实生活中运用](http://www.cnblogs.com/baiboy/p/zryy1.html)
-<br>科学的教你背单词
+<br>站在技术角度教你背单词
 - [【架构】快的打车架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=402041851&idx=1&sn=10e83c9dc614ae36bba63da9d5614b86&scene=0#wechat_redirect)
 <br>做自己的打车应用
 - [【开发】一步步教你用 PHP + MySQL 搭建网站](http://wiki.jikexueyuan.com/project/php-and-mysql-web/)
@@ -60,24 +60,30 @@
 ## 爱分享：分享原创与翻译
 
 - [【翻译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
-<br>
+<br>学习RxJava的核心
 - [【视频】Axure入门到精通系列课程 （1.5-12限免）](http://ke.jikexueyuan.com/xilie/278)
 <br>猫眼电影APP的原型设计
 - [【ISUX译】iOS 9人机界面指南(三)：iOS 技术 (下)](http://isux.tencent.com/ios9-guideline-ch3-2.html)
 <br>腾讯ISUX团队实力翻译
 - [【创业】YC创业课学习笔记 BY 李笑来](http://zhibimo.com/read/xiaolai/growth/index.html)
-<br>不仅仅是鸡汤，看后会有很多道理，让你明白何为创业
+<br>学习如何创业
 - [【设计】如何做一个好的logo](http://www.zcool.com.cn/article/ZMzgzMTcy.html)
 <br>设计是有迹可寻的
 
 ## 自留地：极客学院相关更新课程
 
 - [【Wiki】PHP大神成长手册](http://www.jikexueyuan.com/blog/535.html)
+<br>极客推出，PHP进阶首选
 - [【Wiki】OpenResty最佳实践](http://wiki.jikexueyuan.com/project/openresty/)
+<br>使用 Lua 及 Nginx 构建高性能的 Web 应用
 - [【视频】Android UI自动化测试 UiAutomator](http://ke.jikexueyuan.com/xilie/10)
+<br>零基础学习Android 自动化测试
 - [【视频】iOS 支付功能概述](http://www.jikexueyuan.com/course/2419.html)
+<br>线上支付基础知识
 - [【视频】Android 项目开发实战：图案解锁](http://www.jikexueyuan.com/course/1592.html)
+<br>图案解锁原理与具体实现
 - [【资源】HTML5跳动的心](http://download.jikexueyuan.com/detail/id/2970.html)
+<br>技术也可以很美
 
 更多内容请看下期。
 

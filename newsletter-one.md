@@ -47,8 +47,8 @@
 
 ## 自留地：极客学院相关更新课程
 
-- [PHP大神成长手册](http://www.jikexueyuan.com/blog/535.html)
-- [OpenResty最佳实践](http://wiki.jikexueyuan.com/project/openresty/)
+- [【Wiki】PHP大神成长手册](http://www.jikexueyuan.com/blog/535.html)
+- [【Wiki】OpenResty最佳实践](http://wiki.jikexueyuan.com/project/openresty/)
 - [【视频】Android UI自动化测试 UiAutomator](http://ke.jikexueyuan.com/xilie/10)
 - [【视频】iOS 支付功能概述](http://www.jikexueyuan.com/course/2419.html)
 - [【视频】Android 项目开发实战：图案解锁](http://www.jikexueyuan.com/course/1592.html)

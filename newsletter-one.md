@@ -27,6 +27,11 @@
 - [【架构】快的打车架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=402041851&idx=1&sn=10e83c9dc614ae36bba63da9d5614b86&scene=0#wechat_redirect)
 - [【开发】一步步教你用 PHP + MySQL 搭建网站](http://wiki.jikexueyuan.com/project/php-and-mysql-web/)
 - [【产品】不要迷恋产品方法论，脚踏实地执行这8个步骤就好](http://www.woshipm.com/pd/262724.html)
+- [【开发《Spring Boot Cookbook》阅读笔记](http://wiki.jikexueyuan.com/project/spring-boot/)
+- [【开发】Chrome 开发工具指南](http://wiki.jikexueyuan.com/project/chrome-devtools/)
+- [【云计算】Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
+- [【笔试面试】Java 面试宝典](http://wiki.jikexueyuan.com/project/java-interview-bible/)
+- [【数学模型】商人们怎样过河？](http://blog.luoyuanhang.com/2016/01/06/【数学模型】商人们怎样过河？/)
 
 ## 大集市：挖掘程序界的宝藏 
  

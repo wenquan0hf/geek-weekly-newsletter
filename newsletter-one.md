@@ -60,10 +60,15 @@
 ## 爱分享：分享原创与翻译
 
 - [【翻译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
+<br>
 - [【视频】Axure入门到精通系列课程 （1.5-12限免）](http://ke.jikexueyuan.com/xilie/278)
+<br>猫眼电影APP的原型设计
 - [【ISUX译】iOS 9人机界面指南(三)：iOS 技术 (下)](http://isux.tencent.com/ios9-guideline-ch3-2.html)
+<br>腾讯ISUX团队实力翻译
 - [【创业】YC创业课学习笔记 BY 李笑来](http://zhibimo.com/read/xiaolai/growth/index.html)
+<br>不仅仅是鸡汤，看后会有很多道理，让你明白何为创业
 - [【设计】如何做一个好的logo](http://www.zcool.com.cn/article/ZMzgzMTcy.html)
+<br>设计是有迹可寻的
 
 ## 自留地：极客学院相关更新课程
 

@@ -50,12 +50,18 @@
 
 ## 大集市：挖掘程序界的宝藏 
  
-- [【职业规划】程序员如何谋划出月薪 3 万](http://m.oschina.net/news/69597/how-to-plan-30000-salary?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io)
+- [【职业规划】程序员如何谋划出月薪 3 万](http://m.oschina.net/news/69597/how-to-plan-30000-salary)
+<br>从商业价值、生涯修炼、职业机会多角度展开分析
 - [【人工智能】和一群机器人聊天](http://www.5u55.cn/20151231-chat-with-robots.html)
+<br>图灵机器人
 - [【程序人生】重新定义工作](http://www.labazhou.net/2016/01/redefining-work/)
+<br>成长之中不可缺少的反思
 - [【发现】极致WebGL互动体验网站](https://cybermap.kaspersky.com/)
+<br>酷炫效果
 - [【程序人生】运营总监或运营经理是怎么成长起来的？](https://www.zhihu.com/question/19810744)
+<br>张亮话运营
 - [【程序人生】程序员的日常：一位码农的一生](http://codingpy.com/article/programmers-daily-a-coders-whole-life/)
+<br>有意思的简短漫画
 
 ## 爱分享：分享原创与翻译
 

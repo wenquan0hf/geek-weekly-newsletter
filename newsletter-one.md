@@ -1,4 +1,4 @@
-# 极客周刊第 1 期
+# 《极客周刊》第一期－－不一样的开始，不一样的收获
 
 (2016年1月3日～1月8日)
 
@@ -121,6 +121,16 @@
 <br>技术也可以很美
 
 
-更多内容请看下期。
+## 写在后面
 
-欢迎订阅：[订阅地址](http://list.qq.com/cgi-bin/qf_invite?id=83392b8505dd16951d180f02fe45e724a4f0c455983ca581)
+第一期，还在β，如果内容不符合你的胃口，请一定告诉我们，把你的意见和建议写在这里： [https://shimo.im/doc/4y7OQbyEwX4NhrPs](https://shimo.im/doc/4y7OQbyEwX4NhrPs)   
+我们会认真对待每一条用心的反馈并持续改进～
+
+如果愿意参与周刊的编辑，请加QQ群: 432169252   
+投稿请点击： [http://form.mikecrm.com/f.php?t=iB0rVf](http://form.mikecrm.com/f.php?t=iB0rVf)   
+
+我们会为审核通过的稿件提供署名发表，感谢参与：）   
+
+如果你觉得这份周刊不错，也请发扬互联网的分享精神，发给更多的小伙伴们－－[订阅地址](http://list.qq.com/cgi-bin/qf_invite?id=83392b8505dd16951d180f02fe45e724a4f0c455983ca581)
+
+每周五，我们在这里等你～

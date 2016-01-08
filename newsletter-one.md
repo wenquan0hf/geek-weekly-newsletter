@@ -5,15 +5,27 @@
 ## 新鲜事：互联网&IT技术一周大事件汇总
 
 - [开源盛世的起点——2015十大新兴热门开源项目盘点](http://www.oschina.net/news/69238/2015-top-ten-emerging-open-source-projects) 
+<br>大家都在关注的项目，没准这里就是你要创业的起点
 - [Google确认下一个Android版本将不会使用Oracle的Java API，转而使用开源的OpenJDK替代](http://www.infoq.com/cn/news/2016/01/Google-Oracle-OpenJDK?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
+<br>Android工程师需要关注
 - [Spark 1.6发布：引入Dataset接口](http://www.infoq.com/cn/news/2016/01/spark-16-release)
+<br>1000人的智慧是什么样的？
 - [TIOBE 1月编程语言排行榜 Java是2015年度编程语言](http://www.oschina.net/news/69606/tiobe-2016-1)
+<br>Java已经登顶，且看2016年新秀在哪？
 - [2016年，互联网被哪九大未来技术刷屏？](http://zxr.baijia.baidu.com/article/285389)
+<br>未来也是方向，值得关注
 - [微软将停止对 IE 8、9和10的支持](http://www.infoq.com/cn/news/2016/01/end-support-ie-8-9-10)
+<br>微软变革，大力推进 IE 11 和 Edge
 - [2016开年十大猜：和游戏人共话“行业大势” ](http://zhuanlan.zhihu.com/chuapp/20476916)
+<br>新游戏模式的探索
 - [15 位健在的牛叉程序员，你知道哪几位？](http://blog.jobbole.com/97009/)
+<br>这里有程序媛
 - [美团推荐算法实践](http://tech.meituan.com/mt-recommend-practice.html)
-- [SQLite 3.10 发布，性能优化](http://www.oschina.net/news/69673/sqlite-3-10)
+<br>O2O行业最有价值的算法之一
+- [SQLite 3.10 发布，性能优化](http://www.oschina.net/news/24951/sqlite-3-7-10-released)
+<br>改动很多
+- [Facebook Messenger月活跃用户数超 8 亿](http://36kr.com/p/5042035.html)
+<br>Messenger 的独立是正确的
 
 ## 干货集：IT 技术干货聚集地
 

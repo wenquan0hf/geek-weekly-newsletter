@@ -24,7 +24,7 @@
 <br>产品经理的发展之路
 - [【人工智能】重磅！神经网络浅讲：从神经元到深度学习](http://www.36dsj.com/archives/39775)
 <br>深入浅出讲解神经网络
-- [【程序人生】星球大战与Python之间的那些事](http://codingpy.com/article/what-python-got-to-do-with-star-wars/)
+- [【新酷技术】星球大战与Python之间的那些事](http://codingpy.com/article/what-python-got-to-do-with-star-wars/)
 <br>星战特效与python的不解之缘
 
 ## 爱分享：分享原创与翻译

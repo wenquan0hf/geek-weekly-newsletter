@@ -41,7 +41,7 @@
 <br>新浪弹出框动画
 - [【Android】值得推荐的Android应用性能检测工具列表](http://zhuanlan.zhihu.com/zmywly8866/20416881?f=tt)
 <br>应用性能检测工具
-- [【PhP】给 PHP 开发者的编程指南－第一部分: 降低复杂程度](http://www.oschina.net/translate/programming-guidelines-php-developers-part-1-reducing-complexity)
+- [【PHP】给 PHP 开发者的编程指南－第一部分: 降低复杂程度](http://www.oschina.net/translate/programming-guidelines-php-developers-part-1-reducing-complexity)
 <br>php的编程指南
 - [【Docker】来自 Docker 社区的 10 个炫酷工具](http://www.oschina.net/translate/10-cool-tools-docker-community)
 <br>新玩具 还等什么呢 快来玩吧
@@ -49,7 +49,7 @@
 <br>内存管理好 应用才会运行更快
 - [【Android】 [Android]OkHttp的简单封装－辅助框架](http://blog.csdn.net/qiujuer/article/details/50442600)
 <br>OkHttp的简单封装 快来学习吧！
-- [【PhP】比较全面的PHP数组的使用方法小结](http://www.phpxuexi.com/PHPrumen/201411/3502.html)
+- [【PHP】比较全面的PHP数组的使用方法小结](http://www.phpxuexi.com/PHPrumen/201411/3502.html)
 <br>PHP数组使用办法很全，快收藏吧
 - [【运营】如何把小众领域的公众号运营起来](http://www.chanpin100.com/archives/36704)
 <br>学会从零到一的 努力之后总会有回报

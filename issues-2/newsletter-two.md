@@ -60,8 +60,6 @@
 
 ## 大集市：挖掘程序界的宝藏 
  
-- [【科技浪潮】激荡20年：IE浏览器的辉煌与落寞](http://www.huxiu.com/article/137004/1.html)
-<br>看尽IE浏览器的前世今生
 - [【发现】网络世界的罪恶天堂：暗网发展调研报告](http://www.freebuf.com/articles/92296.html)
 <br>深入了解传说中的Deep Web
 - [【程序人生】为什么说移动开发者很苦逼？](http://36kr.com/p/5042258.html)

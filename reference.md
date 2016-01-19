@@ -20,6 +20,7 @@
 - [Java123](http://www.java123.net/)
 - [前端乱炖](http://www.html-js.com/)
 - [优设](http://www.uisdc.com/)
+- [好奇心日报](http://www.qdaily.com/)
 - [Producthunt](https://www.producthunt.com/)
 
 ### 工具

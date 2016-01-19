@@ -22,6 +22,10 @@
 - [优设](http://www.uisdc.com/)
 - [好奇心日报](http://www.qdaily.com/)
 - [Producthunt](https://www.producthunt.com/)
+- [freecodecamp](http://www.freecodecamp.com/)
+- [码农网](http://www.codeceo.com/)
+- [PHPXS](http://www.phpxs.com/)
+- [2015 年度新增开源软件排名 TOP 100](http://www.oschina.net/news/69808/2015-annual-ranking-top-100-new-open-source-software)
 
 ### 工具
 

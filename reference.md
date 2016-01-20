@@ -26,6 +26,7 @@
 - [码农网](http://www.codeceo.com/)
 - [PHPXS](http://www.phpxs.com/)
 - [2015 年度新增开源软件排名 TOP 100](http://www.oschina.net/news/69808/2015-annual-ranking-top-100-new-open-source-software)
+- [代码君](http://daimajun.com/)
 
 ### 工具
 

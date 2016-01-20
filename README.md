@@ -46,7 +46,6 @@ Labels 分类简介：
    - 爱分享：用户原创或者分享的有价值内容，包括视频、博客、教程等 
    - 自留地：极客学院相关课程（包括视频、Wiki、问答、Download等）、产品更新及相关活动的推荐
 
-
 ### 2.非GitHub用户投稿
 
 投稿请点击： [http://form.mikecrm.com/f.php?t=iB0rVf](http://form.mikecrm.com/f.php?t=iB0rVf)   

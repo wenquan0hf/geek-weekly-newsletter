@@ -37,7 +37,7 @@
 <br>来自阿里巴巴的干货
 - [【架构】饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
 <br>没有最好的架构，只有最适合的
-- [【Android】一句代码添加新浪弹出框动画.](http://bihongbo.com/2015/08/19/sinaAnimation/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [【iOS开发】一句代码添加新浪弹出框动画.](http://bihongbo.com/2015/08/19/sinaAnimation/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 <br>新浪弹出框动画
 - [【Android】值得推荐的Android应用性能检测工具列表](http://zhuanlan.zhihu.com/zmywly8866/20416881?f=tt)
 <br>应用性能检测工具

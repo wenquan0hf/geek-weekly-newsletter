@@ -38,7 +38,7 @@
 - [【架构】饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
 <br>饿了么app架构的演变
 - [【Ios】一句代码添加新浪弹出框动画.](http://bihongbo.com/2015/08/19/sinaAnimation/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-<br>新浪弹出框动画
+<br>新浪弹出框动画。
 - [【Android】值得推荐的Android应用性能检测工具列表
 ](http://zhuanlan.zhihu.com/zmywly8866/20416881?f=tt)
 <br>应用性能检测工具

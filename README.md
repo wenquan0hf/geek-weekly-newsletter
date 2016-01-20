@@ -34,15 +34,18 @@
 ### 1.GitHub用户投稿：
 
 1. 提交 [issues](https://github.com/jikexueyuanwiki/geek-weekly-newsletter/issues/new)，issues 标题为 **投稿第XX期**，内容按 **标题+链接** 形式（能加上推荐理由是件非常Nice的事）。
-2. 根据内容选择 Labels 分类。分类简介：
+2. Submit，等待主编确认
+
+参考例子请看这里：<https://github.com/jikexueyuanwiki/geek-weekly-newsletter/issues/1>
+
+Labels 分类简介：
+
    - 新鲜事——业内（互联网IT技术）一周大事件汇总
    - 干货集：IT技术干货汇聚（类似开发者头条，不要求时间上最新，力求实用） 
    - 大集市：乱七八糟的一些有价值的东西
    - 爱分享：用户原创或者分享的有价值内容，包括视频、博客、教程等 
    - 自留地：极客学院相关课程（包括视频、Wiki、问答、Download等）、产品更新及相关活动的推荐
-3. Submit，等待主编确认
 
-参考例子请看这里：<https://github.com/jikexueyuanwiki/geek-weekly-newsletter/issues>
 
 ### 2.非GitHub用户投稿
 
